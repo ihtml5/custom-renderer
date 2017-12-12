@@ -8,6 +8,8 @@ use react to build wxapp like react-dom
 4. [resources for React Fiber](https://github.com/koba04/react-fiber-resources)
 5. [NoopRenderer](https://github.com/facebook/react/blob/master/src/renderers/noop/ReactNoopEntry.js#L86)
 6. [TestRenderer](https://github.com/facebook/react/blob/master/src/renderers/testing/ReactTestRendererFiberEntry.js#L119)
+7. [react-dom-lite](https://github.com/jquense/react-dom-lite)
+8. [react-tiny-dom](https://github.com/jiayihu/react-tiny-dom)
 
 ### Slides
 1. [FUN WITH FIBER CUSTOM RENDERERS](http://reactamsterdam.surge.sh/#/2)
