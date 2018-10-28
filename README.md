@@ -1,5 +1,5 @@
 # react-wx
-use react to build wxapp like react-dom
+custom-renderer
 
 ### Projects
 1. [Making-a-custom-React-renderer](https://github.com/nitin42/Making-a-custom-React-renderer)
